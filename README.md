@@ -6,8 +6,12 @@
     </h1>
 </div>
 
-
 <a href="https://github.com/Gozrid/Gozrid"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gozrid&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Fabian's github stats" /></a><a href="https://github.com/Gozrid/Gozrid"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gozrid&layout=compact&theme=transparent&hide_border=true" /></a>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Gozrid/Gozrid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
 
 <!--
 &theme=buefy
