@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl -->
 
 <div align="center">
     <h1>
@@ -13,31 +13,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gozrid/Gozrid/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gozrid/Gozrid/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!--
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Gozrid/Gozrid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
--->
-
-<!--
-&theme=buefy
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gozrid&hide=stars&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gozrid&hide_border=true)
--->
-<!--
-**Gozrid/Gozrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
