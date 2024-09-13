@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+| <a href="https://github.com/Gozrid/Gozrid"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gozrid&show_icons=true&include_all_commits=true&hide_border=true" alt="Fabian's github stats" /></a> | <a href="href="https://github.com/Gozrid/Gozrid"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gozrid&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+&theme=buefy
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gozrid&hide=stars&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gozrid&hide_border=true)
