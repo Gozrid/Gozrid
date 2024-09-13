@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gozrid&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gozrid&hide_border=true)
 
 <!--
