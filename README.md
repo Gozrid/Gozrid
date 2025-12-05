@@ -8,7 +8,7 @@
 
 [AI generated stuff](https://gozrid.github.io/ai-madness/)
 
-<a href="https://github.com/Gozrid/Gozrid"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gozrid&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Fabian's github stats" /></a><a href="https://github.com/Gozrid/Gozrid"><img align="center" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Gozrid&layout=compact&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/Gozrid/Gozrid"><img align="center" src="https://github-readme-stats.zcy.dev/api?username=Gozrid&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Fabian's github stats" /></a><a href="https://github.com/Gozrid/Gozrid"><img align="center" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Gozrid&layout=compact&theme=transparent&hide_border=true" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gozrid/Gozrid/output/github-contribution-grid-snake-dark.svg">
