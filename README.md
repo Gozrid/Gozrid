@@ -96,7 +96,7 @@ motto:      "Code it. Break it. Fix it. Ship it."
   </a>
 </div>
 
-> 🤖 **[AI Madness](https://gozrid.github.io/ai-madness/)** — An AI playground where things get interesting. Check it out!
+🤖 **[AI Madness](https://gozrid.github.io/ai-madness/)** — An AI playground where things get interesting. Check it out!
 
 ---
 
