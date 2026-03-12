@@ -29,13 +29,11 @@
 
 ## 🙋 About Me
 
-```yaml
-name:       Gozrid
-location:   Earth 🌍
-interests:  [AI, Web Development, Open Source, Tinkering]
-currently:  Building cool things and learning every day
-motto:      "Code it. Break it. Fix it. Ship it."
-```
+- 👤 **Name:** Gozrid
+- 🌍 **Location:** Earth
+- 🔭 **Interests:** AI, Web Development, Open Source, Tinkering
+- 🚧 **Currently:** Building cool things and learning every day
+- 💬 **Motto:** *"Code it. Break it. Fix it. Ship it."*
 
 ---
 
