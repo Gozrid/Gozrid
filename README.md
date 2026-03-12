@@ -25,7 +25,6 @@
   </a>
 </div>
 
----
 
 ## 🙋 About Me
 
@@ -35,7 +34,6 @@
 - 🚧 **Currently:** Building cool things and learning every day
 - 💬 **Motto:** *"Code it. Break it. Fix it. Ship it."*
 
----
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +65,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -84,13 +81,11 @@
   <img src="https://streak-stats.demolab.com/?user=Gozrid&theme=tokyonight&hide_border=true&ring=049e49&fire=049e49&currStreakLabel=049e49" alt="Gozrid's GitHub Streak" />
 </div>
 
----
 
 ## 🚀 Featured Project
 
 🤖 **[AI Madness](https://gozrid.github.io/ai-madness/)** — An AI playground where things get interesting. Check it out!
 
----
 
 ## 🐍 Contribution Snake
 
@@ -102,7 +97,6 @@
   </picture>
 </div>
 
----
 
 ## 📈 Activity Graph
 
@@ -110,7 +104,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gozrid&theme=tokyo-night&hide_border=true&area=true&color=049e49&line=049e49&point=049e49" alt="Gozrid's Activity Graph" />
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:23272e,100:049e49&height=120&section=footer" alt="footer" />
