@@ -90,12 +90,6 @@ motto:      "Code it. Break it. Fix it. Ship it."
 
 ## 🚀 Featured Project
 
-<div align="center">
-  <a href="https://gozrid.github.io/ai-madness/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gozrid&repo=ai-madness&theme=tokyonight&hide_border=true&title_color=049e49&icon_color=049e49" alt="AI Madness" />
-  </a>
-</div>
-
 🤖 **[AI Madness](https://gozrid.github.io/ai-madness/)** — An AI playground where things get interesting. Check it out!
 
 ---
