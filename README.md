@@ -84,8 +84,8 @@
 
 ## 🚀 Featured Project
 
-🤖 **[AI Madness](https://gozrid.github.io/ai-madness/)** — An AI playground where things get interesting. Check it out!
-🛡️ **[NetVeil](https://gozrid.github.io/NetVeil/)** — An ad blocker App for Android. Completely local.
+- 🤖 **[AI Madness](https://gozrid.github.io/ai-madness/)** — An AI playground where things get interesting. Check it out!
+- 🛡️ **[NetVeil](https://gozrid.github.io/NetVeil/)** — An ad blocker App for Android. Completely local.
 
 
 ## 🐍 Contribution Snake
